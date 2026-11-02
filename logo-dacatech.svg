@@ -1,19 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
-<title id="title">DACATECH</title><desc id="desc">Logotipo DACATECH con circuitos electrónicos simétricos separados del nombre.</desc>
-<g fill="none" stroke="#8dbbdc" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
-<!-- Circuitos superiores: se mantienen fuera del área del nombre -->
-<path d="M600 24V170 M500 70V150L430 220H90 M700 70V150L770 220H1110"/>
-<path d="M545 115V180L500 225H160 M655 115V180L700 225H1040"/>
-<path d="M600 24V95 M500 70H430 M700 70H770"/>
-<!-- Circuitos inferiores, reflejo de los superiores -->
-<path d="M600 736V590 M500 690V610L430 540H90 M700 690V610L770 540H1110"/>
-<path d="M545 645V580L500 535H160 M655 645V580L700 535H1040"/>
-<path d="M600 736V665 M500 690H430 M700 690H770"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1215" height="875" viewBox="0 0 1215 875" role="img" aria-labelledby="t d">
+<title id="t">DACATECH</title><desc id="d">DACATECH en una sola palabra: DACA negro, TECH azul y circuitos electrónicos simétricos arriba y abajo.</desc>
+<rect width="1215" height="875" fill="#fff"/>
+<g fill="none" stroke="#080808" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+<!-- circuito superior, simétrico y separado del nombre -->
+<path d="M607 18V145 M515 95V190L445 250H45 M699 95V190L769 250H1170"/>
+<path d="M560 145V220L515 270H45 M654 145V220L699 270H1170"/>
+<path d="M607 18V85 M515 95V160 M699 95V160"/>
+<!-- circuito inferior -->
+<path d="M607 857V730 M515 780V685L445 625H45 M699 780V685L769 625H1170"/>
+<path d="M560 730V655L515 605H45 M654 730V655L699 605H1170"/>
 </g>
-<g fill="none" stroke="#8dbbdc" stroke-width="8">
-<circle cx="600" cy="24" r="18"/><circle cx="500" cy="70" r="17"/><circle cx="700" cy="70" r="17"/>
-<circle cx="90" cy="220" r="17"/><circle cx="1110" cy="220" r="17"/>
-<circle cx="600" cy="736" r="18"/><circle cx="500" cy="690" r="17"/><circle cx="700" cy="690" r="17"/>
-<circle cx="90" cy="540" r="17"/><circle cx="1110" cy="540" r="17"/>
+<g fill="#fff" stroke="#080808" stroke-width="7">
+<circle cx="607" cy="18" r="19"/><circle cx="515" cy="95" r="19"/><circle cx="699" cy="95" r="19"/>
+<circle cx="45" cy="250" r="19"/><circle cx="1170" cy="250" r="19"/><circle cx="45" cy="270" r="19"/><circle cx="1170" cy="270" r="19"/>
+<circle cx="607" cy="857" r="19"/><circle cx="515" cy="780" r="19"/><circle cx="699" cy="780" r="19"/>
+<circle cx="45" cy="625" r="19"/><circle cx="1170" cy="625" r="19"/><circle cx="45" cy="605" r="19"/><circle cx="1170" cy="605" r="19"/>
 </g>
-<text x="90" y="455" font-family="Arial,Helvetica,sans-serif" font-size="154" font-weight="800" letter-spacing="-7"><tspan fill="#ffffff">DACA</tspan><tspan fill="#1680ed">TECH</tspan></text></svg>
+<text x="30" y="505" font-family="Arial,Helvetica,sans-serif" font-size="205" font-weight="900" letter-spacing="-11"><tspan fill="#080808">DACA</tspan><tspan fill="#0866ed">TECH</tspan></text>
+</svg>
