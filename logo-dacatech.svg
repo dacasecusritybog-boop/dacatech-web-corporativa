@@ -1,20 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1215" height="875" viewBox="0 0 1215 875" role="img" aria-labelledby="t d">
-<title id="t">DACATECH</title><desc id="d">DACATECH en una sola palabra: DACA negro, TECH azul y circuitos electrónicos simétricos arriba y abajo.</desc>
-<rect width="1215" height="875" fill="#fff"/>
-<g fill="none" stroke="#080808" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
-<!-- circuito superior, simétrico y separado del nombre -->
-<path d="M607 18V145 M515 95V190L445 250H45 M699 95V190L769 250H1170"/>
-<path d="M560 145V220L515 270H45 M654 145V220L699 270H1170"/>
-<path d="M607 18V85 M515 95V160 M699 95V160"/>
-<!-- circuito inferior -->
-<path d="M607 857V730 M515 780V685L445 625H45 M699 780V685L769 625H1170"/>
-<path d="M560 730V655L515 605H45 M654 730V655L699 605H1170"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900" role="img" aria-labelledby="title desc">
+<title id="title">DACATECH</title><desc id="desc">Logotipo DACATECH en una sola palabra, letras blancas y azules, con circuitos electrónicos blancos simétricos sobre fondo transparente.</desc>
+<!-- Fondo transparente: los circuitos blancos están reforzados para destacar sobre cabeceras oscuras -->
+<g fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+<!-- Red superior -->
+<path d="M700 22V125 M560 62V150L490 220H80 M840 62V150L910 220H1320"/>
+<path d="M620 112V190L560 250H80 M780 112V190L840 250H1320"/>
+<path d="M700 22V82 M560 62V115 M840 62V115"/>
+<path d="M430 178H300L245 233H80 M970 178H1100L1155 233H1320"/>
+<path d="M510 132H390L340 182H180 M890 132H1010L1060 182H1220"/>
+<path d="M700 125V205 M660 155V210H620 M740 155V210H780"/>
+<!-- Ramales y terminales superiores -->
+<path d="M80 220H35V275 M1320 220H1365V275 M180 182V145H130 M1220 182V145H1270"/>
+<!-- Red inferior simétrica -->
+<path d="M700 878V775 M560 838V750L490 680H80 M840 838V750L910 680H1320"/>
+<path d="M620 788V710L560 650H80 M780 788V710L840 650H1320"/>
+<path d="M700 878V818 M560 838V785 M840 838V785"/>
+<path d="M430 722H300L245 667H80 M970 722H1100L1155 667H1320"/>
+<path d="M510 768H390L340 718H180 M890 768H1010L1060 718H1220"/>
+<path d="M700 775V695 M660 745V690H620 M740 745V690H780"/>
+<path d="M80 680H35V625 M1320 680H1365V625 M180 718V755H130 M1220 718V755H1270"/>
 </g>
-<g fill="#fff" stroke="#080808" stroke-width="7">
-<circle cx="607" cy="18" r="19"/><circle cx="515" cy="95" r="19"/><circle cx="699" cy="95" r="19"/>
-<circle cx="45" cy="250" r="19"/><circle cx="1170" cy="250" r="19"/><circle cx="45" cy="270" r="19"/><circle cx="1170" cy="270" r="19"/>
-<circle cx="607" cy="857" r="19"/><circle cx="515" cy="780" r="19"/><circle cx="699" cy="780" r="19"/>
-<circle cx="45" cy="625" r="19"/><circle cx="1170" cy="625" r="19"/><circle cx="45" cy="605" r="19"/><circle cx="1170" cy="605" r="19"/>
+<g fill="#07111f" stroke="#FFFFFF" stroke-width="7">
+<circle cx="700" cy="22" r="19"/><circle cx="560" cy="62" r="17"/><circle cx="840" cy="62" r="17"/>
+<circle cx="80" cy="220" r="17"/><circle cx="1320" cy="220" r="17"/><circle cx="80" cy="275" r="15"/><circle cx="1320" cy="275" r="15"/>
+<circle cx="300" cy="178" r="14"/><circle cx="1100" cy="178" r="14"/><circle cx="130" cy="145" r="13"/><circle cx="1270" cy="145" r="13"/>
+<circle cx="700" cy="878" r="19"/><circle cx="560" cy="838" r="17"/><circle cx="840" cy="838" r="17"/>
+<circle cx="80" cy="680" r="17"/><circle cx="1320" cy="680" r="17"/><circle cx="80" cy="625" r="15"/><circle cx="1320" cy="625" r="15"/>
+<circle cx="300" cy="722" r="14"/><circle cx="1100" cy="722" r="14"/><circle cx="130" cy="755" r="13"/><circle cx="1270" cy="755" r="13"/>
 </g>
-<text x="30" y="505" font-family="Arial,Helvetica,sans-serif" font-size="205" font-weight="900" letter-spacing="-11"><tspan fill="#080808">DACA</tspan><tspan fill="#0866ed">TECH</tspan></text>
+<!-- Nombre en una sola línea, sin separación entre DACA y TECH -->
+<text x="82" y="510" font-family="Arial,Helvetica,sans-serif" font-size="220" font-weight="900" letter-spacing="-12"><tspan fill="#FFFFFF">DACA</tspan><tspan fill="#1680FF">TECH</tspan></text>
 </svg>
